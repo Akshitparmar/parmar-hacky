@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @parmar-hacky
+- 👋 Hi, I’m  Akshit Parmar
 - 👀 I’m interested in web development and DS ang algo
 - 🌱 I’m currently learning full stack development
--akshitparmar25990@gmail.com
+- contact me at akshitparmar25990@gmail.com
 
 <!---
 parmar-hacky/parmar-hacky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
