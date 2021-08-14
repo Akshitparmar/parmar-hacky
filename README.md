@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Akshit Parmar
-- 👀 I’m interested in web development and DS ang algo
+- 👀 I’m interested in web development and DS algo
 - 🌱 I’m currently learning full stack development
 - contact me at akshitparmar25990@gmail.com
 
